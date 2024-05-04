@@ -1,2 +1,4 @@
-# TS_2024
+# Time Strings
+
+Made by Emmanuel Tavares with Unreal Engine
  
